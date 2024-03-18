@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="400" src="ims/bike.jpg"  />
+<img align="right" height="300" src="ims/bike.jpg"  />
 
 ###
 
@@ -107,10 +107,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="64" alt="webpack logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sean-McConnachie/Sean-McConnachie/output/snake.svg" alt="Snake animation" />
-
-###
