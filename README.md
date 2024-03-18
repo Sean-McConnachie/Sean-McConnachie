@@ -23,6 +23,8 @@
 
 ###
 
+> Psst; I ride bikes and run Linux....
+
 <img align="right" height="300" src="ims/bike.jpg"  />
 
 ###
@@ -32,7 +34,7 @@
   <img width="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64" alt="git logo"  />
   <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="64" alt="rust logo"  />
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-64x64.png" height="64" alt="rust logo"  />
   <img width="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64" alt="python logo"  />
   <img width="64" />
